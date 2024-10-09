@@ -188,13 +188,10 @@ exit
 
 ---
 
-## **Finale Boss**
+## **Start Ansible**
 ```
 ansible-playbook playbook.yml
 ```
 Start It.
 
 ---
-
-#### **Script Created by M. Daffa Aulia Albar**
-Thanks me later :>>>>
